@@ -95,7 +95,7 @@ Party Over Here is a mobile Android application that allows the user to plan the
 
 ## Wireframes
 
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/PartyOverHere/PartyOverHere/blob/main/App_Wireframe1.JPEG" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
