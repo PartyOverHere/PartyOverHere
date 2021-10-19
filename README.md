@@ -35,7 +35,7 @@ Party Over Here is a mobile Android application that allows the user to plan the
 * User can choose a date and time for event
 * User can book venue for event
 * User can choose a event theme
-* Settings (Language)
+* Settings (Language, Notifications)
 
 
 **Optional Nice-to-have Stories**
