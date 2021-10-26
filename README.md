@@ -102,10 +102,89 @@ Party Over Here is a mobile Android application that allows the user to plan the
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+Homescreen/Dashboard
+| Property | Type     |Description|
+| -------- | -------- | -------- |
+|  get_planning _button  |  pointer to venue screen | Once clicked takes user to avaible venues  |
+need_help_button | pointer to survey screen| Once cllicked allows user to take Survey to help them plan their event
+venue_idea | pointer to venue screen| Once clicked takes user to a list of all venues in their area 
+
+Venue Screen 
+| Property | Type  | Description|
+| -------- | -------- | -------- |
+| location_button   | pointer to venues    |  Allows the user to pick their location for available venues    |
+| date_button| pointer to venues| Allows the user to pick their date for available venues 
+| venue_image| file | Allows user to see an image of the venue   |
+| venue_price| float| Allows user to view the price of the location 
+
+Venue Detail View 
+| Property | Type  | Description |
+| -------- | -------- | -------- |
+| venue_image    | file    | Allows user to see an image of the venue    |
+| venue_name | string | Allows the user to see name of the venue 
+| venue_review| string | Allows the user to see an review of the venue 
+| venue_location| string | Allows user to see the location of the venue 
+| venue_price| float | Allows user to view the price of the location 
+| book_venue| pointer to booking screen | Allows user to book venue on the venue detail screen 
+| venue_description| string| Allows the user to view a description of the venue 
+
+Decoration Screen (Ideas)
+| Property | Type | Description |
+| -------- | -------- | -------- |
+| decoration_image  | file    | Allows the user to view different decoration ideas   |
+| decoration_ideas | string | Allows user to see a brief descrption of the decoration 
+
+
+Decoration Detail Screen 
+| Property | Type     | Description|
+| -------- | -------- | -------- |
+| decoration_image | file | Allows the user to view different decoration ideas 
+| decoration_name| string | Allows the user to see the name of the decoration
+| decoration_description    | string    | Allows the user to view a description of the decoration
+
+Profile 
+| Property | Type | Description|
+| -------- | -------- | -------- |
+| dispaly_username   | string  | Allows user to see their username  |
+| click_settings | pointer to settings screen | Allows user to view their personal settings for our application
+| click_notifications|  | 
+| click_event_history| pointer to event history sreen | Allows the user to see all the vents they have viewed while using our app 
+
+Login Screen 
+| Property | Type     | Description|
+| -------- | -------- | -------- |
+| user_username   | string   | Allows the user to type in their user name   |
+| user_password | string| Allows the user to type in their password 
+| login_button| pointer to the homescreen | Allows the user to access all their information located in the app 
+
+
+Registration Screen 
+| Property | Type | Description |
+| -------- | -------- | -------- |
+| create_firstname    | string   | Allows user to enter in their first name    |
+| create_lastname| string | Allows user to enter their lastname 
+| create_password| string| Allows user to create a password 
+| create_email| string | Allows user to connect an email to their account 
+| createAccount_button| pointer to the homescreen| Allows the user to access all their information located in the app
+
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+* Login Screen
+
+![](https://i.imgur.com/BkQChkp.png)
+
+* Home Feed Screen
+![](https://i.imgur.com/xF0IZb9.png)
+
+* (Read/GET) Query all posts where user is author
+* (Create/POST) Create a new like on a post
+* ![](https://i.imgur.com/7UJLXkL.png)
+
+* (Create/POST) Create a new comment on a post
+* (Delete) Delete existing comment
+* Create Post Screen
+* Profile Screen
+* (Read/GET) Query logged in user object
+gith![](https://i.imgur.com/IpZNR4w.png)
+
+
