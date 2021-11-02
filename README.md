@@ -27,15 +27,15 @@ Party Over Here is a mobile Android application that allows the user to plan the
 
 **Required Must-have Stories**
 
-* User can create a new account 
-* User can login to their account
-* User can complete party planning survey 
-* User can view venues 
-* User can create a vision board for event
-* User can choose a date and time for event
-* User can book venue for event
-* User can choose a event theme
-* Settings (Language, Notifications)
+[] User can create a new account 
+[X] User can login to their account
+[] User can complete party planning survey 
+[] User can view venues 
+[]User can create a vision board for event
+[]User can choose a date and time for event
+[] User can book venue for event
+[]User can choose a event theme
+[]Settings (Language, Notifications)
 
 
 **Optional Nice-to-have Stories**
