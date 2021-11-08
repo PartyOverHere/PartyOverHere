@@ -32,7 +32,7 @@ The following **required** functionality is completed:
 - [ ] User can create a new account 
 - [X] User can login to their account
 - [ ] User can complete party planning survey 
-- [ ] User can view venues 
+- [x] User can view venues 
 - [ ] User can create a vision board for event
 - [ ] User can choose a date and time for event
 - [ ] User can book venue for event
@@ -48,6 +48,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/PartyOverHere/PartyOverHere/blob/main/PartyOverHereLogin.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/PartyOverHere/PartyOverHere/blob/main/ViewVenues.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
