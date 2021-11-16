@@ -29,7 +29,7 @@ Party Over Here is a mobile Android application that allows the user to plan the
 
 The following **required** functionality is completed:
 
-- [ ] User can create a new account 
+- [X] User can create a new account 
 - [X] User can login to their account
 - [ ] User can complete party planning survey 
 - [x] User can view venues 
@@ -49,6 +49,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/PartyOverHere/PartyOverHere/blob/main/PartyOverHereLogin.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/PartyOverHere/PartyOverHere/blob/main/ViewVenues.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/PartyOverHere/PartyOverHere/blob/main/PartyOverHere.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
