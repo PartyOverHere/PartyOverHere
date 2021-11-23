@@ -31,9 +31,8 @@ The following **required** functionality is completed:
 
 - [X] User can create a new account 
 - [X] User can login to their account
-- [ ] User can complete party planning survey 
-- [x] User can view venues 
-- [ ] User can create a vision board for event
+- [x] User can view venues
+- [x] User can upload party venue for rent
 - [ ] User can choose a date and time for event
 - [ ] User can book venue for event
 - [ ] User can choose a event theme
