@@ -49,7 +49,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/PartyOverHere/PartyOverHere/blob/main/PartyOverHereLogin.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/PartyOverHere/PartyOverHere/blob/main/ViewVenues.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/PartyOverHere/PartyOverHere/blob/main/PartyOverHere.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://github.com/PartyOverHere/PartyOverHere/blob/main/PartyOverHere_UploadVenue.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ### 2. Screen Archetypes
