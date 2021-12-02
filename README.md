@@ -33,10 +33,9 @@ The following **required** functionality is completed:
 - [X] User can login to their account
 - [x] User can view venues
 - [x] User can upload party venue for rent
-- [ ] User can choose a date and time for event
+- [x] User can choose a date and time for event
 - [ ] User can book venue for event
-- [ ] User can choose a event theme
-- [ ] Settings (Language, Notifications)
+
 
 
 **Optional Nice-to-have Stories**
